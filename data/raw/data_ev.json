@@ -1,0 +1,72 @@
+{
+    "GOOGL": {
+        "symbol": "GOOGL",
+        "date": "2024-12-31",
+        "stockPrice": 189.3,
+        "numberOfShares": 12319000000,
+        "marketCapitalization": 2331986700000,
+        "minusCashAndCashEquivalents": 23466000000,
+        "addTotalDebt": 25461000000,
+        "enterpriseValue": 2333981700000
+    },
+    "AMZN": {
+        "symbol": "AMZN",
+        "date": "2024-12-31",
+        "stockPrice": 219.39,
+        "numberOfShares": 10473000000,
+        "marketCapitalization": 2297671470000,
+        "minusCashAndCashEquivalents": 78779000000,
+        "addTotalDebt": 130900000000,
+        "enterpriseValue": 2349792470000
+    },
+    "AAPL": {
+        "symbol": "AAPL",
+        "date": "2024-09-28",
+        "stockPrice": 227.79,
+        "numberOfShares": 15343783000,
+        "marketCapitalization": 3495160329570,
+        "minusCashAndCashEquivalents": 29943000000,
+        "addTotalDebt": 119059000000,
+        "enterpriseValue": 3584276329570
+    },
+    "META": {
+        "symbol": "META",
+        "date": "2024-12-31",
+        "stockPrice": 585.51,
+        "numberOfShares": 2534000000,
+        "marketCapitalization": 1483682340000,
+        "minusCashAndCashEquivalents": 43889000000,
+        "addTotalDebt": 49060000000,
+        "enterpriseValue": 1488853340000
+    },
+    "MSFT": {
+        "symbol": "MSFT",
+        "date": "2025-06-30",
+        "stockPrice": 497.41,
+        "numberOfShares": 7433000000,
+        "marketCapitalization": 3697248530000,
+        "minusCashAndCashEquivalents": 30242000000,
+        "addTotalDebt": 60588000000,
+        "enterpriseValue": 3727594530000
+    },
+    "NVDA": {
+        "symbol": "NVDA",
+        "date": "2025-01-26",
+        "stockPrice": 118.42,
+        "numberOfShares": 24555000000,
+        "marketCapitalization": 2907803100000,
+        "minusCashAndCashEquivalents": 8589000000,
+        "addTotalDebt": 10270000000,
+        "enterpriseValue": 2909484100000
+    },
+    "TSLA": {
+        "symbol": "TSLA",
+        "date": "2024-12-31",
+        "stockPrice": 403.84,
+        "numberOfShares": 3213000000,
+        "marketCapitalization": 1297537920000,
+        "minusCashAndCashEquivalents": 16139000000,
+        "addTotalDebt": 13623000000,
+        "enterpriseValue": 1295021920000
+    }
+}
